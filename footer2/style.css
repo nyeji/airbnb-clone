@@ -1,0 +1,45 @@
+body {
+  border-top: 1px solid #dddddd;
+  background-color: #f7f7f7;
+}
+
+.footer2 {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.footer2_container {
+  padding-right: 2px;
+  display: flex;
+  justify-content: space-between;
+}
+.ooter2_1 {
+  margin-right: 19px;
+  display: inline-block;
+}
+.kr {
+  font-weight: 600;
+  text-decoration: underline;
+  margin-right: 24px;
+}
+.footer2_2 {
+  display: flex;
+}
+.krw {
+  margin-right: 24px;
+}
+.krw_ {
+  margin-right: 8px;
+}
+.footer2_icon {
+  margin-left: 32px;
+  display: flex;
+}
+.icon {
+  width: 18px;
+  height: 18px;
+  margin-right: 24px;
+}
+.icon_earth {
+  margin-right: 8px;
+}

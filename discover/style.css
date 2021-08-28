@@ -1,0 +1,28 @@
+.discover {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.discover_title {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 32px;
+  font-weight: 700;
+}
+.discover_list {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.discover_container {
+  margin-left: -5px;
+  margin-right: -5px;
+  display: flex;
+}
+.discover_img {
+  width: 415.66px;
+  height: 415.66px;
+}
+.discover_text {
+  font-size: 18px;
+  font-weight: 600;
+}

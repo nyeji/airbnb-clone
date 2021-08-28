@@ -1,0 +1,49 @@
+.nearby_1 {
+  padding: 8px 8px 8px 8px;
+  --column-count: 4;
+}
+
+.nearby {
+  padding: 0px 80px;
+}
+
+.n1 {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 52px;
+  color: #222222;
+  padding-bottom: 16px;
+}
+
+._6tbg2q {
+  width: 64px;
+  height: 64px;
+  margin-right: 20px;
+}
+
+.line_1 {
+  display: flex;
+  font-size: 16px;
+  line-height: 20px;
+  align-items: center;
+  margin-bottom: 30px;
+  justify-content: space-between;
+}
+
+.seoul_1 {
+  padding-bottom: 2px;
+}
+
+.line_2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+._6tbg2q {
+  border-radius: 10px;
+}
+.nearby_location {
+  display: flex;
+  align-items: center;
+  width: 240px;
+}

@@ -1,0 +1,26 @@
+footer {
+  background-color: #f7f7f7;
+  border-top: 1px solid #dddddd;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.footer {
+  padding-top: 48px;
+  padding-bottom: 48px;
+  margin-left: -12px;
+  margin-right: -12px;
+  display: flex;
+}
+
+.section1,
+.section2,
+.section3,
+.section4 {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.section_ {
+  margin-top: 16px;
+}
